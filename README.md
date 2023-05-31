@@ -8,6 +8,14 @@
   
   👀 I’m interested in finding a job as a backend developper, using mainly PHP (8.2) and Symfony (6.3.)
 
+  Other projects that i worked on:
+  
+ A blog dedicated to Jean-Claude Van Damme. (First school project - Pure HTML-CSS-JS)
+ https://github.com/WildCodeSchool/2023-03-PHP-Bordeaux-P1-Blog-JCVD
+ 
+ A blog with articles on techonlogy (Second school project - PHP-HTML-CSS-JS - MVC construction)
+ https://github.com/WildCodeSchool/2023-02-PHP-Bordeaux-P2-RytaMitsublog
+  
   📫 How to reach me:  
     -Linkedin: https://www.linkedin.com/in/tomasspit/
     -Github: github.com/Tomasspit2
