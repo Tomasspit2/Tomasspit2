@@ -17,6 +17,7 @@
  https://github.com/WildCodeSchool/2023-02-PHP-Bordeaux-P2-RytaMitsublog
 
  A video platform dedicated to watching sport videos (Third school project - PHP-SYMFONY-CSS-JS)
+ https://github.com/WildCodeSchool/2023-02-PHP-Bordeaux-OriginDigital
 
  A platform to rent fully acommodated vans - (First Hackathon - PHP-HTML-CSS-JS-Jquery - MVC construction)
  https://github.com/NicolasPalay/Hakathon
