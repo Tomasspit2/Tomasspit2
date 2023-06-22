@@ -15,7 +15,13 @@
  
  A blog with articles on techonlogy (Second school project - PHP-HTML-CSS-JS - MVC construction)
  https://github.com/WildCodeSchool/2023-02-PHP-Bordeaux-P2-RytaMitsublog
-  
+
+ A video platform dedicated to watching sport videos (Third school project - PHP-SYMFONY-CSS-JS)
+
+ A platform to rent fully acommodated vans - (First Hackathon - PHP-HTML-CSS-JS-Jquery - MVC construction)
+ https://github.com/NicolasPalay/Hakathon
+
+ 
   📫 How to reach me:  
     -Linkedin: https://www.linkedin.com/in/tomasspit/
     -Github: github.com/Tomasspit2
