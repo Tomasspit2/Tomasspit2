@@ -8,6 +8,8 @@
   
   👀 I’m interested in finding a job as a backend developper, using mainly PHP (8.2) and Symfony (6.3.)
 
+  My online portfolio: https://www.tomasspit-cv.online
+
   Other projects that i worked on:
   
  A blog dedicated to Jean-Claude Van Damme. (First school project - Pure HTML-CSS-JS)
